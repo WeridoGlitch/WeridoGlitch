@@ -1,7 +1,11 @@
-## Hi there 👋
+## 嗨嗨~~
+
+心情：摁，希望能畢業_(:3 」∠ )_
+
+![:name](https://count.getloli.com/get/@WeridoGlitch?theme=rule34)
 
 <!--
-**WeridoGlitch/WeridoGlitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SunriseStation/SunriseStation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
